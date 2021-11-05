@@ -16,5 +16,5 @@
 - 💬 Ask me about **JavaScript, CSS, HTML**
 
 - 📫 How to reach me: 
-   - [LinkedIn](https://www.linkedin.com/in/burgessadam/)
+   - [LinkedIn](https://www.linkedin.com/in/burgess-adam/)
    - Email: aburg1515@gmail.com
