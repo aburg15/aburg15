@@ -1,4 +1,5 @@
-### Hi there!  I'm Adam.
+<h1 align="center">Hey there! I'm Adam.</h1>
+<h3 align="center">I love the outdoors, coding and building websites!</h3>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aburg15&show_icons=true&locale=en&theme=radical" alt="aburg15" /></p>
 
