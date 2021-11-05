@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Adam.</h1>
-<h4 align="center">I am a former CPA turned software developer.  I love outdoor activities with my lab, coding and building websites!</h4>
+<h4 align="center">I am a former CPA turned software developer!</h4>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aburg15&show_icons=true&locale=en&theme=radical" alt="aburg15" /></p>
 
