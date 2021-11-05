@@ -1,6 +1,8 @@
 ### Hi there!  I'm Adam.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aburg15&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aburg15&show_icons=true&theme=radical) -->
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aburg15&show_icons=true&locale=en" alt="aburg15" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aburg15)](https://github.com/aburg15/github-readme-stats)
 
