@@ -13,7 +13,7 @@
 
 - 🌱  I’m currently learning **Fetch API**
 
-- 💬  Ask me about **JavaScript, CSS, HTML**
+- 💬  Ask me about **JavaScript, React, CSS, HTML**
 
 - 📫  How to reach me: 
    - [LinkedIn](https://www.linkedin.com/in/burgess-adam/)
