@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Adam.</h1>
 <h4 align="center">I am a former CPA turned software developer!</h4>
 
+[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' />](https://www.linkedin.com/in/burgess-adam) 
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aburg15&show_icons=true&locale=en&theme=radical" alt="aburg15" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aburg15&show_icons=true&locale=en&layout=compact" alt="adamburgess" /></p>
