@@ -1,7 +1,10 @@
-<h1 align="center">Hi, I'm Adam.</h1>
-<h4 align="center">I am a former CPA turned software developer!</h4>
+<h1 align="left">Hi, I'm Adam.</h1>
 
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' />](https://www.linkedin.com/in/burgess-adam) 
+
+I am a front end software developer and former CPA with six years of experience in public accounting. I recently decided to switch careers and pursue my passion for software development.
+
+As a front end developer, I thoroughly enjoy creating applications that are accessible, user-friendly and provide for an overall positive user experience. What excites me the most about software development is the unlimited possibilities. Nearly all of our daily tasks involve some sort of interaction with code. Being able to be a part of that user interaction now and in the future is very inspiring to me.
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aburg15&show_icons=true&locale=en&theme=radical" alt="aburg15" /></p>
 
