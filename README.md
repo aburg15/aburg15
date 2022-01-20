@@ -1,7 +1,6 @@
 <h1 align="left">Hi, I'm Adam.</h1>
 
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' />](https://www.linkedin.com/in/burgess-adam) 
-<a href="mailto:aburg15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail icon"/></a>
 
 I am a front end software developer and former CPA with six years of experience in public accounting. I recently decided to switch careers and pursue my passion for software development.
 
